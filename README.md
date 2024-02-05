@@ -1,15 +1,17 @@
 # GW Jug
 
-Rough idea sketched in
+The rough idea is sketched below
 ![rough idea](calc.png)
 
 Prototype is ready! (Please forgive the ugly look. It was leaking.)
 ![prototype](20240205_172040.jpg)
 
-The *.wav files contain the recorded sound for two tests. The corresponding spectrograms are given below. They fit quite well with quadrupole GW signals, so the bottle's shape was correctly modelled and printed.
+The *.wav files contain the recorded sound for two tests. The corresponding spectrograms are given below. If they are short, they fit quite well with quadrupole GW signals, so the bottle's shape was correctly modelled and printed.
 
-![long chirp](GW_jug_long.png)
 ![short chirp](GW_jug_short.png)
+
+The fit is not so great with long signals, i.e. if you fill very slowly.
+![long chirp](GW_jug_long.png)
 
 To do:
 * Write about
